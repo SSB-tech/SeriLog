@@ -1,0 +1,5 @@
+Install necessary packagaes for Serilog,
+Register Serilog Service in program.cs,
+Make necessary configurations in appsetting (whether to display error in console, file, database, etc),
+Use Log.Error in try, catch,
+You can also use Serilog.UI
